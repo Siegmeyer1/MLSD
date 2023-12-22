@@ -1,0 +1,17 @@
+path: dataset  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/validation  # val images (relative to 'path')
+test: images/test  # test images (optional)
+
+names:
+  0 : 'Ничего из вышеперечисленного'
+  1 : 'ПЭТ коричневый'
+  2 : 'ПЭТ прозрачный'
+  3 : 'ПЭТ зеленый'
+  4 : ''
+  4 : 'ПЭТ масло'
+  5 : 'ПЭТ молочка (белая/прозрачная)'
+  6 : 'ПЭТ голубой'
+  7 : 'Одноразовая посуда (пластик)'
+  8 : 'Любая бутылка с термоусадкой'
+  9 : 'Бутылка Бытовая химия'

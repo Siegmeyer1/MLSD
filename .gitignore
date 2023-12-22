@@ -1,0 +1,7 @@
+raw_dataset
+runs
+.venv
+yolov8n.pt
+Оригинал Датасета
+/labels
+.gh_token
