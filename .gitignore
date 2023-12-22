@@ -5,3 +5,5 @@ yolov8n.pt
 Оригинал Датасета
 /labels
 .gh_token
+/datasets/dataset.zip
+/datasets/dataset
